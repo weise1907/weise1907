@@ -7,7 +7,7 @@
 </div>
 <div align="center">
     <a href="https://instagram.com/weise1907" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/myrose" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/weise" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
