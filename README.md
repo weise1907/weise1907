@@ -7,16 +7,16 @@
 </div>
 <div align="center">
     <a href="https://instagram.com/weise1907" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/weise" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/1441" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 
 ```js
 class weise {
 constructor(options) {
-this.name = "Burak",
-this.age = 24,
-this.insta = "weise1907",
+this.name = "Berke",
+this.age = "22",
+this.insta = "bwrke.png",
 this.discord = "weisebey",
 this.discordId = "194113002650337280"
   };
@@ -27,7 +27,7 @@ module.exports = weisebey;
 
 <div align="center">
   <img src="https://lanyard.kyrie25.me/api/194113002650337280?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Weise+Is+Back." width="45%" style="vertical-align: top;">
-  <a href="https://instagram.com/weise1907">
+  <a href="https://instagram.com/bwrke.png">
     <img src="https://cdn.discordapp.com/attachments/1188891988058177638/1201658479735996456/D7aaXD2BHF5AAAAAElFTkSuQmCC.png" width="45%" style="vertical-align: top;">
   </a>
 </div>
