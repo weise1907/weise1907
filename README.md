@@ -17,7 +17,7 @@ constructor(options) {
 this.name = "Berke",
 this.age = "22",
 this.insta = "bwrke.png",
-this.discord = "weisebey",
+this.discord = "qxqw",
 this.discordId = "194113002650337280"
   };
 }
