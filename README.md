@@ -16,8 +16,8 @@ class weise {
 constructor(options) {
 this.name = "Berke",
 this.age = "22",
-this.insta = "bwrke.png",
-this.discord = "qxqw",
+this.insta = "weisebey",
+this.discord = "orospuevlatlariylamucadelevakfi",
 this.discordId = "194113002650337280"
   };
 }
