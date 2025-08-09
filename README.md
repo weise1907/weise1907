@@ -25,10 +25,6 @@ module.exports = weisebey;
 ```
 #
 
-<div align="center">
-  <img src="https://lanyard.kyrie25.me/api/194113002650337280?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Weise+Is+Back." width="45%" style="vertical-align: top;">
-
- width="45%" style="vertical-align: top;">
   </a>
 </div>
 <div align="left">
