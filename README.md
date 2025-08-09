@@ -27,8 +27,8 @@ module.exports = weisebey;
 
 <div align="center">
   <img src="https://lanyard.kyrie25.me/api/194113002650337280?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Weise+Is+Back." width="45%" style="vertical-align: top;">
-  <a href="https://instagram.com/bwrke.png">
-    <img src="https://cdn.discordapp.com/attachments/1188891988058177638/1201658479735996456/D7aaXD2BHF5AAAAAElFTkSuQmCC.png" width="45%" style="vertical-align: top;">
+  <a href="https://instagram.com/weisebey">
+    <img src="[https://cdn.discordapp.com/attachments/1188891988058177638/1201658479735996456/D7aaXD2BHF5AAAAAElFTkSuQmCC.png](https://cdn.discordapp.com/attachments/1188891988058177638/1403757315999535134/pngwing.com.png?ex=6898b660&is=689764e0&hm=5f88b9789d823ff9dd4709925623515c05c23b4d557bb17c8ec93a684450b73d&)" width="45%" style="vertical-align: top;">
   </a>
 </div>
 <div align="left">
